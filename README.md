@@ -28,7 +28,10 @@ A CMOS-based optimized 4-bit array multiplier implemented using Tanner EDA with 
 Implemented XOR gate using transmission gates instead of conventional CMOS realization to reduce transistor count and area.
 
 ---
-FOUR_BIT_ARRAY_MULTIPLIER_OPTIMIZED.png
+Optimized_XOR_Gate.png
+## XOR Optimization using Transmission Gates
+
+![XOR](optimization/Optimized_XOR_Gate.png)
 ## Multiplier Schematic
 
 ![Multiplier](Schematics/FOUR_BIT_ARRAY_MULTIPLIER_OPTIMIZED.png)
